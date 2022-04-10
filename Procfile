@@ -1,1 +1,1 @@
-worker: python bot/main.py
+worker: disc_code.py
