@@ -2,7 +2,7 @@
 from riotwatcher import LolWatcher, ApiError
 from champDict import champ_dict
 
-api_key = 'RGAPI-30838856-e2c7-4527-a20f-df3ad919a78f'
+api_key = 'RGAPI-60e0eff4-b205-494c-bd54-f2203ffd1d8d'
 watcher = LolWatcher(api_key)
 my_region = 'na1'
 user_input = ''
